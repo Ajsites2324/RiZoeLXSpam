@@ -228,7 +228,7 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in RiZoeLX:
-                text = f"I can't Dm To @RiZoeLX's Owner"
+                text = f"I can't Dm To @PAPA_BOL_SAKTEHO's Owner of TPN"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -246,7 +246,7 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in RiZoeLX:
-                text = f"I can't Dm To @RiZoeLX's Owner"
+                text = f"I can't Dm To @PAPA_BOL_SAKTEHO's Owner of TPN"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -265,7 +265,7 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in RiZoeLX:
-                text = f"I can't Dm To @RiZoeLX's Owner"
+                text = f"I can't Dm To @PAPA_BOL_SAKTEHO's Owner of TPN"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
